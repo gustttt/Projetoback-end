@@ -1,0 +1,30 @@
+
+        h1{
+            color:red;
+        }
+        h2{
+
+            color: mediumblue;
+        }
+        p{
+            color: black;
+            font-family: sans-serif;
+            font-size: large;
+        }
+
+            body{
+                background-color: lightskyblue;
+            }
+            table{
+            margin-left: 50%; 
+            border-color:blue ;
+
+            }
+            p{
+                padding-left: 10%;
+            }
+
+            img{
+                align-items: center;
+            }
+            
